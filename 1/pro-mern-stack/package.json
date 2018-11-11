@@ -1,0 +1,20 @@
+{
+  "name": "pro-mern-stack",
+  "version": "1.0.0",
+  "description": "tutorial_1",
+  "main": "babel.min.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/odumegwu/mevn-stack-1.git"
+  },
+  "author": "cigbokwue@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odumegwu/mevn-stack-1/issues"
+  },
+  "homepage": "https://github.com/odumegwu/mevn-stack-1#readme"
+}
